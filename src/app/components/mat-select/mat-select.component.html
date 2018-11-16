@@ -1,12 +1,12 @@
 <div class="jumbotron">
-  <h5><a routerLink="/" class="float-right"> &lt;&lt; Back</a></h5>
+  <h6><a routerLink="/"> &lt;&lt; Back</a></h6>
   <div class="header">
     <h3>Mat Select</h3>
   </div>
   <div class="mat-select-container">
     <form class="row">
       <div class="col-md-6">
-        <h4>mat-select</h4>
+        <h4>Mat-select</h4>
         <mat-form-field>
           <mat-select placeholder="Favorite color" [(ngModel)]="selectedValue" name="color">
             <mat-option *ngFor="let color of colors" [value]="color">
@@ -17,7 +17,7 @@
         <p> Selected color: {{selectedValue}} </p>
       </div>
       <div class="col-md-6">
-        <h4>native html select</h4>
+        <h4>Native html select</h4>
         <mat-form-field>
           <select matNativeControl placeholder="Favorite fruit" [(ngModel)]="selectedFruit" name="fruit">
             <option value="" disabled selected></option>
