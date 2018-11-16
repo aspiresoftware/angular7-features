@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install Dependancies
 Run `npm install` once cloning the project from the github. 
 
-##Live demo url
+## Live demo url
 http://aspiresoftware.in/angular7-features/
 
 ## Development server
