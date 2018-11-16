@@ -1,4 +1,4 @@
-# Angular7Blog
+# Angular7 Features
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
@@ -7,6 +7,10 @@ Run `npm install` once cloning the project from the github.
 
 ## Live demo url
 http://aspiresoftware.in/angular7-features/
+
+## For more inforamtion about Angular 7
+visit: http://aspiresoftware.in/blog/whats-new-in-angular-7
+
 
 ## Development server
 
