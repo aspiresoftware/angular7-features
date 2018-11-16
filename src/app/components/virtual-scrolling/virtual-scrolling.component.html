@@ -1,0 +1,13 @@
+<div class="jumbotron">
+  <h5><a routerLink="/" class="float-right"> &lt;&lt; Back</a></h5>
+  <div class="header">
+    <h3>Virtual Scrolling</h3>
+  </div>
+  <div class="virtual-scroll-container">
+    <cdk-virtual-scroll-viewport itemSize="50" minBufferPx="00" maxBufferPx="0" class="viewport">
+      <div *cdkVirtualFor="let i of arr;let even = even;let count = index; templateCacheSize: 0" class="{{(even == true) ? 'item even':'item'}}">
+        {{count}}. {{i}}
+      </div>
+    </cdk-virtual-scroll-viewport>
+  </div>
+</div>
