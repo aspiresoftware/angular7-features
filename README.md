@@ -5,6 +5,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Install Dependancies
 Run `npm install` once cloning the project from the github. 
 
+##Live demo url
+http://aspiresoftware.in/angular7-features/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
