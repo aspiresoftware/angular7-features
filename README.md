@@ -10,6 +10,7 @@ http://aspiresoftware.in/angular7-features/
 
 ## Step by step explanation of this source code
 http://aspiresoftware.in/blog/virtual-scrolling-in-angular7/
+
 http://aspiresoftware.in/blog/drag-and-drop-in-angular7/
 
 ## For more inforamtion about Angular 7
